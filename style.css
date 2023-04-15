@@ -9,7 +9,7 @@ body{
 nav{
     background-color: var(--primarycolor);
     text-align: center;
-    padding-top: 0.5rem;
+    padding-top: rem;
     box-sizing: border-box;
     display: block;
     border-bottom-left-radius: 1rem;
@@ -30,16 +30,16 @@ nav{
     padding: 0.9rem 2rem;
     font-size: large;
     margin-top: 0.5rem;
-    margin-left: 29rem;
+    margin-left: rem;
 }
 .outcome{
      font-size: larger ;  
-      margin-left: 29rem;
+      margin-left: rem;
 }
 .footer{
     background-color: var(--primarycolor);
     text-align: center;
-    padding-top: 1rem;
+    margin-top: 1rem;
     box-sizing: border-box;
     display: block;
     border-top-left-radius: 1rem;
