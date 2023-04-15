@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:wght@300;400&display=swap');
+body{
+    font-family: 'Averia Serif Libre', cursive;
+}
+:root{
+    --primarycolor: #f5e050;
+}
+
+nav{
+    background-color: var(--primarycolor);
+    text-align: center;
+    padding-top: 0.5rem;
+    box-sizing: border-box;
+    display: block;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem ;
+
+}
+.main{
+ 
+    margin: auto;
+    
+    max-width: 600px;
+    box-sizing: border-box;
+}
+.button{
+    background-color: var(--primarycolor);
+    border: none;
+    margin: 1rem 0rem;
+    padding: 0.9rem 2rem;
+    font-size: large;
+    margin-top: 0.5rem;
+    margin-left: 29rem;
+}
+.outcome{
+     font-size: larger ;  
+      margin-left: 29rem;
+}
+.footer{
+    background-color: var(--primarycolor);
+    text-align: center;
+    padding-top: 1rem;
+    box-sizing: border-box;
+    display: block;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem ;
+}
